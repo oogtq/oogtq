@@ -1,3 +1,4 @@
+大家好，我是oogtq，一个普普通通的业余开发者，工作之外，喜欢五公里越野，写写文章、做做开源项目
 - 👋 Hi, I’m @oogtq
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -8,3 +9,5 @@
 oogtq/oogtq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![oogtq's github stats](https://github-readme-stats.vercel.app/api?username=oogtq&show_icons=true&theme=radical)
+
