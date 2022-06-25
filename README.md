@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![oogtq's github stats](https://github-readme-stats.vercel.app/api?username=oogtq&show_icons=true&theme=radical)
 ## 技术栈 Github 统计
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=captain5&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=oogtq&show_icons=true">
 
 Python
 
@@ -26,13 +26,8 @@ Python
 
 ## 博客
 
-https://captain5.github.io/
-
-
-https://www.cnblogs.com/v5captain/
-
 <!-- 访客 -->
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=captain5.captain5" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=oogtq.captain5" alt="visitor badge"/>
 </p>
 
