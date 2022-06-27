@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ## 技术栈 Github 统计
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=oogtq&show_icons=true">
 
-Python
+Python,Js,Java
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
