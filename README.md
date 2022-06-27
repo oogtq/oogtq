@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oogtq
-- 👀 I’m interested in surving in the internet,playing the baketball,soccer,tennes,watching the books,running and making some friends!
+- 👀 I’m interested in surfing in the internet,playing the baketball,soccer,tennes,watching the books,running and making some friends!
 - 🌱 I’m currently learning js.
 - 💞️ I’m looking to collaborate on the internet!
 - 📫 How to reach me ? no!!!
