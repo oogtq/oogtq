@@ -1,10 +1,8 @@
-<!---
 - 👋 Hi, I’m @oogtq，height:1.8m  and weight:75kg and a sunshine boy.
 - 👀 I’m interested in surfing in the internet,playing the baketball,soccer,tennes,watching the books,running and making some friends!
 - 🌱 I’m currently learning js,pycharm,java.
 - 💞️ I’m looking to collaborate on the internet!
 - 📫 How to reach me ? no!
---->
 
 <!---
 oogtq/oogtq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
