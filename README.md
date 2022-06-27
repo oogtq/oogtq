@@ -1,9 +1,8 @@
-大家好，我是oogtq，一个普普通通的小开发员，没啥爱好，上网冲浪，吃饭睡觉看书，打篮球，踢足球，打网球那些都是高中，大学的爱好，喜欢学习先进技术！！！
 - 👋 Hi, I’m @oogtq
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in surving in the internet,playing the baketball,soccer,tennes,watching the books,running and making some friends!
+- 🌱 I’m currently learning js.
+- 💞️ I’m looking to collaborate on the internet!
+- 📫 How to reach me ? no!!!
 
 <!---
 oogtq/oogtq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
