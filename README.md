@@ -29,7 +29,7 @@ Python,Js,Java
 
 
 <!-- 访客 -->
-<p align="center">
+<!--<p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=oogtq.captain5" alt="visitor badge"/>
-</p>
+</p>-->
 
